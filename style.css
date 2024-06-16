@@ -1,0 +1,22 @@
+.navbar {
+    background: #7D9D9C;
+    margin: 0;
+    padding: 10px 150px 10px 150px;
+}
+
+.navbar-brand {
+    margin: 0;
+}
+
+.blog-entry {
+    border: 5px solid #576F72;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+}
