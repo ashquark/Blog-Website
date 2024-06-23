@@ -37,7 +37,14 @@
     padding: 10px;
 }
 
+.footer {
+    background: #FFF;
+    padding: 30px 150px 30px 150px;
+    
+}
+
 body {
     margin: 0;
     background: #EBF4F6;
+    font-family: "Montserrat", sans-serif;
 }
